@@ -1,0 +1,9 @@
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Services.Image.Analyse\Cognitive.Service.Image.Analyse\bin\Release\Cognitive.Service.Image.Analyse.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Services.Image.Analyse\Cognitive.Service.Image.Analyse\bin\Release\Cognitive.Service.Image.Analyse.pdb
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Services.Image.Analyse\Cognitive.Service.Image.Analyse\bin\Release\Newtonsoft.Json.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Services.Image.Analyse\Cognitive.Service.Image.Analyse\bin\Release\Newtonsoft.Json.xml
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Services.Image.Analyse\Cognitive.Service.Image.Analyse\obj\Release\Cognitive.Service.Image.Analyse.csprojAssemblyReference.cache
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Services.Image.Analyse\Cognitive.Service.Image.Analyse\obj\Release\Cognitive.Service.Image.Analyse.csproj.CoreCompileInputs.cache
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Services.Image.Analyse\Cognitive.Service.Image.Analyse\obj\Release\Cognitive.Service.Image.Analyse.csproj.CopyComplete
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Services.Image.Analyse\Cognitive.Service.Image.Analyse\obj\Release\Cognitive.Service.Image.Analyse.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Services.Image.Analyse\Cognitive.Service.Image.Analyse\obj\Release\Cognitive.Service.Image.Analyse.pdb
