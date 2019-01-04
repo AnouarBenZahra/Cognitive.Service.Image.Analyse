@@ -5,8 +5,7 @@ First, You need to log into the Azure Portal with our Azure credentials. Then we
      Second, Set the endPoint to "https://westus.api.cognitive.microsoft.com/vision/v1.0/analyze" 
      Finaly to Image information captured using Computer Vision API you should write like this : 
   ImageInfo imageInfo = new ImageInfo();
-     var imageInformations= imageInfo.MakeAnalysisRequest(subscriptionKey, imagePath, endPoint);
-     
+     var imageInformations= imageInfo.MakeAnalysisRequest(subscriptionKey, imagePath, endPoint);     
      
      Requirements :
      These are the major requirements mentioned in the Microsoft docs.
