@@ -14,4 +14,3 @@ First, You need to log into the Azure Portal with our Azure credentials. Then we
      3-Image file size: Less than 4 MB.
      4-Image dimension: Greater than 50 x 50 pixels.
      
-anouar.ben.zahra@gmail.com
